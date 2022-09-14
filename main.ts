@@ -19,6 +19,7 @@ let pingMessage = false;
 const TIMEOUT = 5000;
 let playerOneLastMove = -TIMEOUT;
 let playerTwoLastMove = -TIMEOUT;
+// ----------------------------
 
 controller.setRepeatDefault(0, 1000);
 
