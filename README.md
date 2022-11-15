@@ -1,6 +1,6 @@
  
 
-
+2
 > Open this page at [https://siff2018.github.io/ping/](https://siff2018.github.io/ping/)
 
 ## Use as Extension
